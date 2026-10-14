@@ -1,6 +1,6 @@
 """Собирает калькулятор КП для селлера (xlsx) — потом загружается в Google Sheets.
 
-Запуск: python3 calculator/build_calculator.py calculator/kalkulyator-kp-sellera.xlsx
+Запуск: python3 calculator/build_calculator.py calculator/podrobny-raschet.xlsx
 """
 import sys
 from openpyxl import Workbook
